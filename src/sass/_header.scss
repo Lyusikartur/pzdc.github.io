@@ -1,0 +1,36 @@
+.header{
+	background-color: #0F2679;
+	color: #FF0040;
+	&_button{
+		padding-top: 15px;
+		padding-bottom: 15px;
+		padding-left: 40px;
+		padding-right: 40px;
+		font-size: 20px;
+		border-radius: 20px;
+		background-color: #0F2679;
+		margin-top: 20px;
+		
+		margin-bottom: 20px;
+		margin-left: 70px;
+		text-transform: uppercase;
+	}
+	a{
+		font-size: 28px;
+		text-decoration: none;
+		
+		margin-top: 33px;
+		padding-left: 45px;	
+		text-transform: uppercase;
+	}
+	li{
+		margin-left: 25px;
+		display: flex;
+
+		
+	}
+	ul{
+		display: flex;
+		text-align: center;
+	}
+}

@@ -1,0 +1,132 @@
+.header {
+  background-color: #0F2679;
+  color: #FF0040;
+}
+
+.header_button {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: #0F2679;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 70px;
+  text-transform: uppercase;
+}
+
+.header a {
+  font-size: 28px;
+  text-decoration: none;
+  margin-top: 33px;
+  padding-left: 45px;
+  text-transform: uppercase;
+}
+
+.header li {
+  margin-left: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-align: center;
+}
+
+.firstsection {
+  background-color: #5D75EB;
+}
+
+.firstsection_title {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-bottom: 35px;
+}
+
+.firstsection_text {
+  font-size: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.firstsection_button {
+  background-color: #5D75EB;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border-radius: 40px;
+}
+
+.firstsection_button_clas {
+  text-align: center;
+}
+
+.secondsection {
+  background-color: #8A9DFC;
+}
+
+.secondsection_title {
+  padding-top: 25px;
+  text-align: center;
+  font-size: 26px;
+}
+
+.secondsection_text {
+  font-size: 22px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.secondsection_img {
+  background-color: #000;
+  padding-bottom: 237px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+.footer {
+  background-color: #BBC6FE;
+  color: #151725;
+}
+
+.footer_text {
+  font-size: 19px;
+  color: #151725;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer_img {
+  background-color: #000;
+  width: 30px;
+  height: 30px;
+  margin-top: 26px;
+  display: inline-block;
+  margin-left: 13px;
+  margin-right: 13px;
+  margin-left: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}

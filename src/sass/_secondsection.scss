@@ -1,0 +1,21 @@
+.secondsection{
+	background-color: #8A9DFC;
+	&_title{	
+		padding-top: 25px;
+		text-align: center;
+		font-size: 26px;
+	}
+	&_text{
+		font-size: 22px;
+		text-align: center;
+		padding-top: 20px;
+		padding-bottom: 30px;
+	}
+	&_img{
+		background-color: #000;
+		padding-bottom: 237px;
+		margin-top: 40px;
+		margin-bottom: 40px;
+		margin-left: 20px;
+	}
+}
